@@ -113,3 +113,16 @@ MDNサイトを使ってh1、borderの仕様、継承の有無を確認。継承
 
 ### コメント
 text-decorationでテキストの打消し線、下線を設定できることがわかった。
+
+## 09 font-familyでフォントを指定しよう
+
+### 講座内容
+- フォント決定の仕組み
+- font-family
+- 総称フォントファミリー
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/09/
+
+### コメント
+font-familyの仕組み、フォント名に空白がある場合は「'」か「"」で囲む仏用があること、cssに日本語が含まれる場合は、文字化けの可能性があるためcssファイルの先頭に@charset "utf-8";を書く必要があることがわかった。
