@@ -43,7 +43,7 @@ CSSを記述するためのindex.htmlを作成した。内容自体はHTML講座
 - style属性
 
 ### 成果物
-- https://shirahamah.github.io/dotinstall_basic_css/02/
+- https://shirahamah.github.io/dotinstall_basic_css/03/
 
 ### コメント  
 CSSの書き方については知っていたので、特に新しく学んだことはなかったです。
