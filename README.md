@@ -125,4 +125,4 @@ text-decorationでテキストの打消し線、下線を設定できること�
 - https://shirahamah.github.io/dotinstall_basic_css/09/
 
 ### コメント
-font-familyの仕組み、フォント名に空白がある場合は「'」か「"」で囲む仏用があること、cssに日本語が含まれる場合は、文字化けの可能性があるためcssファイルの先頭に@charset "utf-8";を書く必要があることがわかった。
+font-familyの仕組み、フォント名に空白がある場合は「'」か「"」で囲む必要があること、cssに日本語が含まれる場合は、文字化けの可能性があるためcssファイルの先頭に@charset "utf-8";を書く必要があることがわかった。
