@@ -98,3 +98,18 @@ MDNサイトを使ってh1、borderの仕様、継承の有無を確認。継承
 
 ### コメント
 デベロッパーツールは普段から見ることもあったため、ある程度の見方はわかっていました。
+
+## 08 テキストにスタイルを設定しよう
+
+### 講座内容
+- color
+- font-size
+- font-weight
+- text-align
+- text-decoration
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/08/
+
+### コメント
+text-decorationでテキストの打消し線、下線を設定できることがわかった。
