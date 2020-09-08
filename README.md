@@ -6,7 +6,7 @@ https://dotinstall.com/lessons/basic_css_styles_v2
 
 成果物を置くリポジトリです
 
-## [ ] 01 CSSを学んでいこう (01:40)
+## [] 01 CSSを学んでいこう (01:40)
 https://dotinstall.com/lessons/basic_css_styles_v2/51201
 
 ### 講座内容
