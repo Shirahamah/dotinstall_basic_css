@@ -56,7 +56,19 @@ CSSの書き方については知っていたので、特に新しく学んだ�
 - コメント
 
 ### 成果物
-- https://shirahamah.github.io/dotinstall_basic_css/03/
+- https://shirahamah.github.io/dotinstall_basic_css/04/
 
 ### コメント
 書き方については知っていましたが、スタイルを指定する用語が「セレクター」、指定するスタイルを「宣言」、宣言の左側を「プロパティ」、右側を「値」という用語までは把握していなかった。
+
+## 05 スタイルの継承を理解しよう
+
+### 講座内容
+- スタイルの継承
+- Cascading Style Sheets
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/05/
+
+### コメント
+CSSの継承については何が継承させて何が継承されないのか分かっていないのでしっかり把握する。継承は次回以降の講座で詳しく見ていく予定です。
