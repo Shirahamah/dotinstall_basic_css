@@ -6,7 +6,7 @@ https://dotinstall.com/lessons/basic_css_styles_v2
 
 成果物を置くリポジトリです
 
-## 01 CSSを学んでいこう (01:40)
+## 01 CSSを学んでいこう
 https://dotinstall.com/lessons/basic_css_styles_v2/51201
 
 ### 講座内容
@@ -33,3 +33,17 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51201
 
 ### コメント  
 CSSを記述するためのindex.htmlを作成した。内容自体はHTML講座の復習のような感じなので新しく学んだことは特になかったです。
+
+## 03 はじめてのCSS
+
+### 講座内容
+- styleタグ
+- linkタグ
+- cssファイルの作成
+- style属性
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/02/
+
+### コメント  
+CSSの書き方については知っていたので、特に新しく学んだことはなかったです。
