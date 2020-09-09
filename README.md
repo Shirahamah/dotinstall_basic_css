@@ -261,3 +261,17 @@ class属性のスタイリングについて、概要がわかりました。セ
 
 ### コメント
 コンテンツが領域からはみ出た場合、overflow: hidden;であふれた部分を隠せる、overflow: scroll;で領域内でスクロールできるようになることがわかった。
+
+## 20 borderで境界線をつけてみよう
+
+### 講座内容
+- border-width、border-style、border-color
+- border
+- border-top、border-bottom
+- border-radius
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/20/
+
+### コメント
+ボーダーの書き方、角の丸め方がわかりました。ボーダーの種類は必要に応じてMDNサイトで調べます。
