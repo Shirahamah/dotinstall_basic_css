@@ -294,3 +294,17 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51220
 
 ### コメント
 ボーダーの書き方、角の丸め方がわかりました。ボーダーの種類は必要に応じてMDNサイトで調べます。
+
+## 21 paddingで内側の余白を付けよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51221
+
+### 講座内容
+- padding-top
+- padding-left
+- padding
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/21/
+
+### コメント
+paddingの一括指定の値の数とルールがわかった。
