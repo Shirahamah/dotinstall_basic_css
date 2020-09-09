@@ -192,3 +192,17 @@ hslaについてスライドを使った説明。
 
 ### コメント
 hslaでの色の表現方法は知らなかったので覚える。
+
+## 15 リストをスタイリングしてみよう
+
+### 講座内容
+- list-style-type
+- list-style-position
+- list-style-image
+- 画像ファイルの指定
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/15/
+
+### コメント
+listの先頭の記号の変え方、消し方がわかった。
