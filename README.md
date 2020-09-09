@@ -243,7 +243,21 @@ class属性のスタイリングについて、概要がわかりました。セ
 - デベロッパーツールでの確認
 
 ### 成果物
-- https://shirahamah.github.io/dotinstall_basic_css/17/
+- https://shirahamah.github.io/dotinstall_basic_css/18/
 
 ### コメント
 ボックスモデルの領域の関係性がわかりました。ボックスモデルの操作は次回以降の講座で行います。
+
+## 19 width､heightを設定してみよう
+
+### 講座内容
+- width
+- px, %による指定
+- height
+- overflow
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/19/
+
+### コメント
+コンテンツが領域からはみ出た場合、overflow: hidden;であふれた部分を隠せる、overflow: scroll;で領域内でスクロールできるようになることがわかった。
