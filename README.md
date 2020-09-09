@@ -22,6 +22,7 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51201
 この講座で学ぶ内容の概要がわかった。
 
 ## 02 学習の準備を整えよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51202
 
 ### 講座内容
 - 画像素材の確認
@@ -35,6 +36,7 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51201
 CSSを記述するためのindex.htmlを作成した。内容自体はHTML講座の復習のような感じなので新しく学んだことは特になかったです。
 
 ## 03 はじめてのCSS
+https://dotinstall.com/lessons/basic_css_styles_v2/51203
 
 ### 講座内容
 - styleタグ
@@ -49,6 +51,7 @@ CSSを記述するためのindex.htmlを作成した。内容自体はHTML講座
 CSSの書き方については知っていたので、特に新しく学んだことはなかったです。
 
 ## 04 CSSの文法に慣れよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51204
 
 ### 講座内容
 - CSSの書き方
@@ -62,6 +65,7 @@ CSSの書き方については知っていたので、特に新しく学んだ�
 書き方については知っていましたが、スタイルを指定する用語が「セレクター」、指定するスタイルを「宣言」、宣言の左側を「プロパティ」、右側を「値」という用語までは把握していなかった。
 
 ## 05 スタイルの継承を理解しよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51205
 
 ### 講座内容
 - スタイルの継承
@@ -74,6 +78,7 @@ CSSの書き方については知っていたので、特に新しく学んだ�
 CSSの継承については何が継承させて何が継承されないのか分かっていないのでしっかり把握する。継承は次回以降の講座で詳しく見ていく予定。
 
 ## 06 CSSの仕様を調べてみよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51206
 
 ### 講座内容
 - MDN
@@ -87,6 +92,7 @@ CSSの継承については何が継承させて何が継承されないのか�
 MDNサイトを使ってh1、borderの仕様、継承の有無を確認。継承がない場合でもinheritを使うことで適用させることができることがわかった。
 
 ## 07 デベロッパーツールを使ってみよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51207
 
 ### 講座内容
 - デベロッパーツールの操作方法
@@ -100,6 +106,7 @@ MDNサイトを使ってh1、borderの仕様、継承の有無を確認。継承
 デベロッパーツールは普段から見ることもあったため、ある程度の見方はわかっていました。
 
 ## 08 テキストにスタイルを設定しよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51208
 
 ### 講座内容
 - color
@@ -115,6 +122,7 @@ MDNサイトを使ってh1、borderの仕様、継承の有無を確認。継承
 text-decorationでテキストの打消し線、下線を設定できることがわかった。
 
 ## 09 font-familyでフォントを指定しよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51209
 
 ### 講座内容
 - フォント決定の仕組み
@@ -128,6 +136,7 @@ text-decorationでテキストの打消し線、下線を設定できること�
 font-familyの仕組み、フォント名に空白がある場合は「'」か「"」で囲む必要があること、cssに日本語が含まれる場合は、文字化けの可能性があるためcssファイルの先頭に@charset "utf-8";を書く必要があることがわかった。
 
 ## 10 line-heightで行の高さを調整しよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51210
 
 ### 講座内容
 - line-height
@@ -141,6 +150,7 @@ font-familyの仕組み、フォント名に空白がある場合は「'」か�
 line-heightを指定することで、行間の制御もできることがわかった。また高さに、1文字分を表す「em」が使えることがわかった。単位なしでの違いについては次回の講座で見る予定。
 
 ## 11 単位なしでline-heightを指定しよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51211
 
 ### 講座内容
 - 単位ありの指定
@@ -153,6 +163,7 @@ line-heightを指定することで、行間の制御もできることがわか
 単位ありで書いた場合は親要素で計算された値がそのまま子要素に継承、単位なしで書いた場合は親要素の値を継承せず、子要素のほうで再計算されることがわかった。
 
 ## 12 vertical-alignで位置を調整しよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51212
 
 ### 講座内容
 - vertical-align
@@ -165,6 +176,7 @@ line-heightを指定することで、行間の制御もできることがわか
 文中に画像を配置する際の位置と指定の仕方、vertival-alignはpタグには適応できないことがわかった。
 
 ## 13 RGBAを使った色の表現方法を覚えよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51213
 
 ### 講座内容
 - キーワードによる色の指定
@@ -180,6 +192,7 @@ rgbaについてスライドを使った説明。
 rgbaでの色指定については知っていたため特に問題ありませんでした。
 
 ## 14 HSLAを使った色の表現方法を覚えよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51214
 
 ### 講座内容
 - hsla()
@@ -194,6 +207,7 @@ hslaについてスライドを使った説明。
 hslaでの色の表現方法は知らなかったので覚える。
 
 ## 15 リストをスタイリングしてみよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51215
 
 ### 講座内容
 - list-style-type
@@ -208,6 +222,7 @@ hslaでの色の表現方法は知らなかったので覚える。
 listの先頭の記号の変え方、消し方がわかった。
 
 ## 16 一括指定プロパティを使ってみよう (02:47)
+https://dotinstall.com/lessons/basic_css_styles_v2/51216
 
 ### 講座内容
 - 一括指定プロパティ
@@ -221,6 +236,7 @@ listの先頭の記号の変え方、消し方がわかった。
 一括指定プロパティで値を省略した場合は初期値が入るため、その前に書いた個別の設定が上書きされてしまう動きになることがわかった。
 
 ## 17 クラスセレクターの基本をおさえよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51217
 
 ### 講座内容
 - クラスセレクター
@@ -232,6 +248,7 @@ listの先頭の記号の変え方、消し方がわかった。
 class属性のスタイリングについて、概要がわかりました。セレクターについての詳細は別レッスンで行う予定です。
 
 ## 18 ボックスモデルを理解しよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51218
 
 ### 講座内容
 - ボックスモデル
@@ -249,6 +266,7 @@ class属性のスタイリングについて、概要がわかりました。セ
 ボックスモデルの領域の関係性がわかりました。ボックスモデルの操作は次回以降の講座で行います。
 
 ## 19 width､heightを設定してみよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51219
 
 ### 講座内容
 - width
@@ -263,6 +281,7 @@ class属性のスタイリングについて、概要がわかりました。セ
 コンテンツが領域からはみ出た場合、overflow: hidden;であふれた部分を隠せる、overflow: scroll;で領域内でスクロールできるようになることがわかった。
 
 ## 20 borderで境界線をつけてみよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51220
 
 ### 講座内容
 - border-width、border-style、border-color
