@@ -324,3 +324,15 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51222
 
 ### コメント
 左右のmarginをautoにすることでボックスモデルを中央揃えにすることができる。
+
+## 23 marginの相殺を理解しよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51223
+
+### 講座内容
+- marginの相殺
+
+### 成果物
+- marginの相殺についてスライドで説明
+
+### コメント
+垂直方向のmarginが重なったときは値が小さいほうのmarginが相殺されることがわかった。垂直のmarginでおかしな挙動が起きたらmarginの相殺を疑うようにする。
