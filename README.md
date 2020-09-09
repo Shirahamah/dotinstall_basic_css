@@ -308,3 +308,19 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51221
 
 ### コメント
 paddingの一括指定の値の数とルールがわかった。
+
+## 22 marginで外側の余白を付けよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51222
+
+### 講座内容
+- margin-bottom
+- margin
+- margin-left
+- margin-right
+- auto
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/22/
+
+### コメント
+左右のmarginをautoにすることでボックスモデルを中央揃えにすることができる。
