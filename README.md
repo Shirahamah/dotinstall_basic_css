@@ -394,3 +394,15 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51227
 
 ### コメント
 親要素のpositionがstaticの場合は、ウィンドウの左上を基準として、relativeの場合は、親要素を基準として配置されることが分かった。
+
+## 28 z-indexで重なり順を操作しよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51228
+
+### 講座内容
+- z-index
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/28/
+
+### コメント
+z-indexで指定した数値が大きいほど上に配置されることが分かった。
