@@ -431,3 +431,16 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51230
 
 ### コメント
 calcを使うことで単位が違うものの計算ができることが分かりました。
+
+### 31 要素に影をつけてみよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51231
+
+### 講座内容
+- box-shadow
+- text-shadow
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/31/
+
+### コメント
+box-shadowではx軸y軸だけでなく、ぼかし具合や拡大まで指定できることが分かりました。
