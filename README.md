@@ -366,3 +366,18 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51225
 
 ### コメント
 inline要素にはwidth、heightが適応されないため、inline-blockに変えることで対応する。
+
+## 26 positionで要素の位置を変えよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51226
+
+### 講座内容
+- position
+- static
+- relative
+- fixed
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/26/
+
+### コメント
+staticの位置からずらしたいときはrelative、fixedを使ったときはウィンドウの左上を起点として固定配置されることがわかった。
