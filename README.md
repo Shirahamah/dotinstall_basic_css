@@ -381,3 +381,16 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51226
 
 ### コメント
 staticの位置からずらしたいときはrelative、fixedを使ったときはウィンドウの左上を起点として固定配置されることがわかった。
+
+## 27 要素を絶対配置してみよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51227
+
+### 講座内容
+- 要素の絶対配置
+- 動作確認
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/27/
+
+### コメント
+親要素のpositionがstaticの場合は、ウィンドウの左上を基準として、relativeの場合は、親要素を基準として配置されることが分かった。
