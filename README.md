@@ -332,7 +332,24 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51223
 - marginの相殺
 
 ### 成果物
-- marginの相殺についてスライドで説明
+- なし  
+marginの相殺についてスライドで説明
 
 ### コメント
 垂直方向のmarginが重なったときは値が小さいほうのmarginが相殺されることがわかった。垂直のmarginでおかしな挙動が起きたらmarginの相殺を疑うようにする。
+
+## 24 displayプロパティについて理解しよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51224
+
+### 講座内容
+- block
+- inline
+- inline-block
+- 挙動の違い
+
+### 成果物
+- なし  
+displayプロパティについてスライドで説明
+
+### コメント
+blockとinline、inline-blockでは、配置方法とwidth、heightの操作に違いがあることがわかった。
