@@ -353,3 +353,16 @@ displayプロパティについてスライドで説明
 
 ### コメント
 blockとinline、inline-blockでは、配置方法とwidth、heightの操作に違いがあることがわかった。
+
+## 25 displayプロパティを操作してみよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51225
+
+### 講座内容
+- displayプロパティの使用例
+- none 
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/25/
+
+### コメント
+inline要素にはwidth、heightが適応されないため、inline-blockに変えることで対応する。
