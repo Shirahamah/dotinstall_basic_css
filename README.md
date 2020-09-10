@@ -457,7 +457,20 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51232
 - 一括指定時の注意点
 
 ### 成果物
-- https://shirahamah.github.io/dotinstall_basic_css/31/
+- https://shirahamah.github.io/dotinstall_basic_css/32/
 
 ### コメント
 backgroundを一括設定するときはbackground-sizeとpositionは/で区切って、まとめて指定する必要があることが分かりました。
+
+## 33 floatを使ってみよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51233
+
+### 講座内容
+- float
+- clear
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/33/
+
+### コメント
+floatを使うことで画像を回り込ませることができることが分かりました。この講座では細かいルールまでは説明されなかったので、細かいルールについては別途学習する。
