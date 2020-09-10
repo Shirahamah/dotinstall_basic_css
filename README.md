@@ -406,3 +406,16 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51228
 
 ### コメント
 z-indexで指定した数値が大きいほど上に配置されることが分かった。
+
+## 29 box-sizingを使ってみよう
+https://dotinstall.com/lessons/basic_css_styles_v2/51229
+
+### 講座内容
+- box-sizing
+- box-sizingの使用例
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/29/
+
+### コメント
+box-sizingでborder-boxと指定することで、枠線を付けるときに枠線の太さを考慮せずに他のboxとサイズをあわせることができるとわかった。
