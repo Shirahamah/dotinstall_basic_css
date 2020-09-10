@@ -419,3 +419,15 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51229
 
 ### コメント
 box-sizingでborder-boxと指定することで、枠線を付けるときに枠線の太さを考慮せずに他のboxとサイズをあわせることができるとわかった。
+
+## 30 calcで単位が違う計算をしてみよう (02:50)
+https://dotinstall.com/lessons/basic_css_styles_v2/51230
+
+### 講座内容
+- calc
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/30/
+
+### コメント
+calcを使うことで単位が違うものの計算ができることが分かりました。
