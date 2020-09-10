@@ -432,7 +432,7 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51230
 ### コメント
 calcを使うことで単位が違うものの計算ができることが分かりました。
 
-### 31 要素に影をつけてみよう
+## 31 要素に影をつけてみよう
 https://dotinstall.com/lessons/basic_css_styles_v2/51231
 
 ### 講座内容
@@ -444,3 +444,20 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51231
 
 ### コメント
 box-shadowではx軸y軸だけでなく、ぼかし具合や拡大まで指定できることが分かりました。
+
+## 32 背景のスタイリングをしていこう
+https://dotinstall.com/lessons/basic_css_styles_v2/51232
+
+### 講座内容
+- background-color
+- background-image
+- background-size
+- background-position
+- background
+- 一括指定時の注意点
+
+### 成果物
+- https://shirahamah.github.io/dotinstall_basic_css/31/
+
+### コメント
+backgroundを一括設定するときはbackground-sizeとpositionは/で区切って、まとめて指定する必要があることが分かりました。
