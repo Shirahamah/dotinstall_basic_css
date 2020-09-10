@@ -349,7 +349,7 @@ https://dotinstall.com/lessons/basic_css_styles_v2/51224
 
 ### 成果物
 - なし  
-displayプロパティについてスライドで説明
+displayプロパティについてスライドで説明 
 
 ### コメント
 blockとinline、inline-blockでは、配置方法とwidth、heightの操作に違いがあることがわかった。
